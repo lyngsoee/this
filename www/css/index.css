@@ -97,6 +97,7 @@ h1 {
     height: 100%;
     border-right: 1px solid #ccc;
     position:absolute;
+    overflow: scroll;
 }
 .left-bar ul {
     list-style: none;
@@ -106,10 +107,10 @@ h1 {
 .left-bar ul li {
     width: 90%;
     padding-left: 10%;
-    height: 200px;
-    line-height: 200px;
+    height: 100px;
+    line-height: 100px;
     background: #fff;
     color: #333;
     border-bottom: 1px solid #ccc;
-    font-size: 24px;
+    font-size: 28px;
 }
